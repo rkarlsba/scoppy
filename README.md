@@ -1,4 +1,4 @@
-# scoppy-pico
+# scoppy
 RPi Pico/RP2040 firmware for the [Scoppy Oscilloscope](https://github.com/fhdm-dev/scoppy)    
 <br>
 [Installation and getting started instructions](https://oscilloscope.fhdm.xyz/wiki/Installation-&-Getting-Started)    
